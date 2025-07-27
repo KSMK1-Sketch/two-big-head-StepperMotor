@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "bmp.h": "c",
-        "a_include.h": "c",
-        "usart.h": "c",
-        "i2c.h": "c"
-    }
-}
