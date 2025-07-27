@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "bmp.h": "c",
-        "a_include.h": "c",
-        "led.h": "c",
-        "pid.h": "c",
-        "encoder.h": "c"
-    }
-}

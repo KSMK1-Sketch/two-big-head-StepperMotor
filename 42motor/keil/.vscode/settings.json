@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "bmp.h": "c",
-        "a_include.h": "c",
-        "oled.h": "c",
-        "emm_v5.h": "c"
-    }
-}
